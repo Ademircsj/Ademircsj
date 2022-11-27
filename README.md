@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Ademircsj
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning Ruby
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 ademircsj@gmail.com
 
 <!---
 Ademircsj/Ademircsj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
