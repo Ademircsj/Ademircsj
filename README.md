@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ademircsj
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning Ruby
+- 🌱 I’m currently learning Front-End
 - 📫 ademircsj@gmail.com
 
 <!---
